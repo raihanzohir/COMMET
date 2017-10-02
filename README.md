@@ -1,2 +1,2 @@
 # COMMET
-iOS App via IONIC
+iOS App with IONIC
